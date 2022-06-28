@@ -1,4 +1,4 @@
-name: ooi-nmf-workflow-data-prep
+name: ek60
 channels:
   - conda-forge
 dependencies:
